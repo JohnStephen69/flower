@@ -12,17 +12,17 @@
     <div class="greetings">
     <!-- silahkan menambah kata sesuai keinginan dengan <span>text...</span -->
         <span>H</span>
-        <span>A</span>
+        <span>E</span>
         <span>L</span>
         <span>L</span>
         <span>O</span>
     </div>
     <div class="description">
-        <span>Aku ada hadiah spesial buat kamu!!</span>
+        <span>"Life begins at the end of your comfort zone"</span>
     </div>
     <div class="button">
         <button>
-            <a href="flower.php">Klik disini</a>
+            <a href="flower.php">Click me</a>
         </button>
         
     </div>
